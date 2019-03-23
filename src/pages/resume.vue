@@ -17,6 +17,9 @@ export default Vue.component('resume', {
 </script>
 
 <style scoped>
+.page{
+  margin: 0 auto;
+}
 .page-inner{
   height: 100%;
   width: 100%;
